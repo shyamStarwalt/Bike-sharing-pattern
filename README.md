@@ -1,3 +1,3 @@
 # Bike-sharing-pattern
 
-Predict Bike Sharing Rides With a Neural Network
+In this project, I built a neural network to predict daily bike rentals

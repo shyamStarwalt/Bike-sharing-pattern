@@ -4,7 +4,7 @@
 
 In this project, you'll build your first neural network and use it to predict daily bike rental ridership. We've provided some of the code, but left the implementation of the neural network up to you (for the most part). After you've submitted this project, feel free to explore the data and the model more.
 
-## getting started
+## Getting started
 The data is already provided for you in ./Dataset/hour.csv , ./Dataset/day.csv and you're encouraged to open that file and look at the csv.
 
 As a first step, we'll load in this data and look at some samples.
@@ -54,7 +54,7 @@ Then, you'll be tasked with defining and training a Neural Network to generate a
 ### Model scratch:
 Training loss: 0.058 ... Validation loss: 0.142
 
-<img src='loss.png' width= 200 px>
+<img src='loss.png' width= 400 px>
 
 ## Output
-<img src ='bike.png' width = 200 px>
+<img src ='bike.png' width = 400 px>

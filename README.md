@@ -58,3 +58,11 @@ Training loss: 0.058 ... Validation loss: 0.142
 
 ## Output
 <img src ='bike.png' width = 400 px>
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+
+## Acknowledgments
+
+* The data comes from Udacity.
